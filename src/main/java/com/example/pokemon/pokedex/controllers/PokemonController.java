@@ -1,7 +1,7 @@
-package com.example.pokedex.controllers;
+package com.example.pokemon.pokedex.controllers;
 
-import com.example.pokedex.entities.Pokemon;
-import com.example.pokedex.services.PokemonService;
+import com.example.pokemon.pokedex.entities.Pokemon;
+import com.example.pokemon.pokedex.services.PokemonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,7 +1,7 @@
-package com.example.pokedex.dto;
+package com.example.pokemon.pokedex.dto;
 
-import com.example.pokedex.entities.Abilities;
-import com.example.pokedex.entities.Types;
+import com.example.pokemon.pokedex.entities.Abilities;
+import com.example.pokemon.pokedex.entities.Types;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;
 import lombok.Data;
